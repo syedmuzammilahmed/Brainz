@@ -14,7 +14,7 @@ import Fitness from "./Fitness";
 import HeartbeatMeasure from './HeartbeatMeasure';
 import SettingsScreen from './Settings';
 import BottomTabs from './BottomTabs'
-
+// muzu
 const Stack = createStackNavigator();
 
 export default function App() {
